@@ -16,13 +16,14 @@ This project explores the relationship between **U.S. news sentiment** and **App
 ## 📁 Files
 
 - `Apple_Share_Sentiment_with Apple_rel_article.ipynb`: Main Jupyter notebook containing all code, visualizations, and analysis.
+- `Get_sharePrice.ipunb`: the code to get this is written in 
 
 ---
 
 ## 📊 Data Sources
 
-- **Stock Data**: Apple (AAPL) daily historical prices (Open, High, Low, Close, Volume). the code to get this is written in `Get_sharePrice.ipunb`
-- **News Data**: news articles mentioning Apple, cleaned and pre-processed.
+- **Stock Data**: Apple (AAPL) daily historical prices (Open, High, Low, Close, Volume). 
+- **News Data**: news articles mentioning Apple, cleaned and pre-processed. Link for raw data: https://www.kaggle.com/datasets/rmisra/news-category-dataset
 - **Keywords**: Filter list for Apple-related mentions.
 
 ---
