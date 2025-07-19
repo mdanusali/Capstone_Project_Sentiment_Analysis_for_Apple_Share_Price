@@ -48,4 +48,4 @@ This project explores the relationship between **U.S. news sentiment** and **App
 
 ---
 
-##
+## https://www.linkedin.com/pulse/do-headlines-move-apples-stock-i-analyzed-10-years-data-ali-gjo8c
